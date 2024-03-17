@@ -110,7 +110,7 @@ You will then see 3 different buttons on the main application screen:
 - İrfan Emre Durmuş
 - Kadir Tuna Hasırcı
 - Emre Özdemiroğlu
-- Ali Özgün
+- Ali Özgün Gültekin
 
 
 
